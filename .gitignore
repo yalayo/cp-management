@@ -1,3 +1,6 @@
 target/**/*
 .settings/*
 .breakpoints
+spring-hibernate.log
+
+src/main/java/com/rondonsarnik/app/directorio/comun/config/hibernate/hibernate.properties
