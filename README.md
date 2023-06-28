@@ -3,4 +3,5 @@
 3. Added web.xml
 4. Added multiple needed dependencies
 5. Added log4j config
-6. 
+6. Added jsf config
+7. 
